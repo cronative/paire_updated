@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279442915631",
+    "project_id": "pare-cb315",
+    "storage_bucket": "pare-cb315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279442915631:android:59ddb5f471533ccc62a1da",
+        "android_client_info": {
+          "package_name": "com.example.pare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279442915631-5labknah12ikgv67rgcgdn0p3jf4d31q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9XOFSOWF5aaZFuABTtBT0Z51xYt0vtZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279442915631-5labknah12ikgv67rgcgdn0p3jf4d31q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
